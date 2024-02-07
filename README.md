@@ -8,15 +8,6 @@ Cricket, the second most popular sport globally with 2.5 billion fans, is witnes
 
 CricStrategizer is designed to revolutionize cricket strategy by predicting a batsman's shot outcome for a particular delivery based on specific properties. By leveraging machine learning models developed on IPL 2022 data, the project aims to empower players and teams to strategically analyze and understand a batsman's playing style, facilitating effective game plans and strategies.
 
-## Files in the Project
-
-- **dag.py:** Directed Acyclic Graph (DAG) outlining the project workflow.
-- **Data_Cleaning.py:** Script for cleaning and preprocessing raw data.
-- **Dataextraction.py:** Extracts relevant data needed for the project.
-- **EDA_Visuals.py:** Conducts Exploratory Data Analysis and generates visualizations.
-- **Feature_Engineering.py:** Creates and refines features crucial for machine learning models.
-- **Model_Creation.py:** Implements SVM, Random Forest, and ANN models for predicting batsmen's shot outcomes.
-
 ## Project Workflow
 
 1. **Data Extraction and Cleaning:** Raw data is processed for cleanliness and readiness.
