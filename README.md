@@ -1,4 +1,4 @@
-# CricStrategizer
+# CricStrategizer 🚀🏏
 
 ## Overview
 
@@ -30,3 +30,28 @@ CricStrategizer is designed to revolutionize cricket strategy by predicting a ba
 
    ```bash
    git clone https://github.com/yourusername/CricStrategizer.git
+
+
+2. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **Execute the DAG file:**
+
+   ```bash
+   python dag.py
+
+## Future Enhancements
+
+1. **Implement real-time data integration for up-to-the-minute analysis.**
+   - Enhance the system to dynamically integrate real-time data, providing the latest insights for strategic decision-making.
+
+2. **Explore additional machine learning models for further accuracy improvement.**
+   - Investigate and incorporate advanced machine learning models to continually enhance the accuracy and predictive capabilities of CricStrategizer.
+
+3. **Develop a user interface for easy interaction with predictive models.**
+   - Create a user-friendly interface that allows cricket enthusiasts, players, and teams to easily interact with and benefit from the predictive models, making the tool accessible and intuitive.
+
+
+
