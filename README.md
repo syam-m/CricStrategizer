@@ -20,7 +20,7 @@ CricStrategizer is designed to revolutionize cricket strategy by predicting a ba
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CricStrategizer.git
+   git clone https://github.com/syam-m/CricStrategizer.git
 
 
 2. **Install dependencies:**
